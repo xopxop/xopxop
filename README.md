@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 My name is Du Than, a 🧑‍🏭 by 🌅 and a 🧑‍💻 by 🌙 <br/>
-Based location: Helsinki
+Base location: Helsinki
 
 - 🔭 I’m currently working on: 42sh, camagru project
 - 🌱 I’m currently learning on web development and Java
