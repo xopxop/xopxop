@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Du Than, a 🧑‍🏭 by 🌅 and 🧑‍💻 a coder by 🌙.
+My name is Du Than, a 🧑‍🏭 by 🌅 and 🧑‍💻 a coder by 🌙 <br/>
 Based location: Helsinki
 
 - 🔭 I’m currently working on: 42sh, camagru project
