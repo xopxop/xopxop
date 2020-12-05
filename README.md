@@ -1,3 +1,5 @@
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dthan)](https://github.com/JaeSeoKim/badge42)
+
 ### Hello there 👋
 
 My name is Du Than, a 🧑‍🏭 by 🌅 and a 🧑‍💻 by 🌙 <br/>
